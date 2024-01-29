@@ -32,5 +32,8 @@ node server.js
 **built so far**
 - Login Form and some logic to store the jwt in local storage
 
+**To Build**
+- Dashboard page to display the logged in user
+
 
 
